@@ -1,7 +1,4 @@
 import Image from "next/image";
-import MIntro from "./components/MIntro";
-import HospitalCarousel from "./components/HospitalCarousel";
-import MCarousel from "./components/MCarousel";
 import SCarousel from "./components/SCarousel";
 import Link from "next/link";
 
