@@ -4,7 +4,7 @@ const page = () => {
     <div>
       <p className="h1">About Us</p>
       <p className="p1">
-        Welcome to Doctors Malik & Khan Practice, your leading source for
+        Welcome to Doctors Malik & Khan's Practice, your leading source for
         top-tier private GP services in Manchester and across the Northwest.
       </p>
       <MIntro />

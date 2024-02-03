@@ -96,7 +96,7 @@ export default function Home() {
             administered by dedicated professionals. As your preferred choice
             for comprehensive medical services, we consistently strive to be the
             premier GP in Manchester and the Northwest. Choose Doctors Malik &
-            Khan Practice for a healthcare partnership prioritizing your
+            Khan's Practice for a healthcare partnership prioritizing your
             well-being.
           </p>
           <button className="p-4 rounded-lg bg-sky-500 font-bold text-xl text-white m-2 hover:bg-sky-400">

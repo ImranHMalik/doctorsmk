@@ -135,11 +135,10 @@ const SCarousel = () => {
           />
         </div>
       </div>
-      <div className="px-5 pb-3 mt-3">
-        <p className="font-light text-xl font-roboto text-gray-600">
-          Providing personalized professional services at the flagship CQC
-          registered Alexandra Hospital, one of the UK's largest private
-          hospitals outside of London, we take pride in delivering unparalleled
+      <div className="pb-3 mt-3">
+        <p className="p1">
+          Working across CQC registered flagship 'The Alexandra Hospital' in
+          Cheshire, Greater Manchester, we take pride in delivering unparalleled
           medical care.
         </p>
       </div>
